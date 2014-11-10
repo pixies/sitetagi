@@ -8,6 +8,9 @@ Focar em manter os serviços e soluções em evidencia.
 
 Usar uma estrutura de slides, pensando em anições (roterizadas) para informar nossos produtos.
 
+Discutir de forma objetiva como usar alguma ferramenta para SEO, já que não sabemos se ainda iremos 
+utilizar Wordpress.
+
 Ideias para o novo site:
 =======================
 
